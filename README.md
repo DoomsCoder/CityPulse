@@ -2,8 +2,6 @@
   <img src="app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.webp" width="128" height="128" alt="CityPulse Logo">
   <h1>🌆 CityPulse</h1>
   <p><i>"Empowering Citizens, Improving Cities."</i></p>
-  <p><i>"Urban Health at Your Fingertips."</i></p>
-  <p><i>"Data-Driven Decisions for a Better Tomorrow."</i></p>
 
   [![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?logo=android&logoColor=white)](https://developer.android.com)
   [![Language](https://img.shields.io/badge/Language-Java-ED8B00?logo=openjdk&logoColor=white)](https://www.java.com)

@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.webp" width="128" height="128" alt="CityPulse Logo">
-  <h1>🌆 CityPulse</h1>
+  <img src="app/src/main/ic_launcher-playstore.png" width="300" alt="CityPulse Logo">
   <p><i>"Empowering Citizens, Improving Cities."</i></p>
 
   [![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?logo=android&logoColor=white)](https://developer.android.com)
